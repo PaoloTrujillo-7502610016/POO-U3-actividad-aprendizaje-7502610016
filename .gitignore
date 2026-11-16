@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 # Archivos de IntelliJ IDEA
+=======
+# IntelliJ IDEA
+>>>>>>> fc8263953e7d23fdf1db226982e2026247285ae0
 .idea/
 *.iml
 
@@ -7,18 +11,30 @@
 out/
 target/
 build/
+<<<<<<< HEAD
 
 # Archivos de Java compilados
+=======
+>>>>>>> fc8263953e7d23fdf1db226982e2026247285ae0
 *.class
 
 # Archivos temporales
 *.log
 *.tmp
 
+<<<<<<< HEAD
 # Archivos del sistema operativo
+=======
+# Sistema operativo
+>>>>>>> fc8263953e7d23fdf1db226982e2026247285ae0
 .DS_Store
 Thumbs.db
 desktop.ini
 
+<<<<<<< HEAD
 # Configuración local
 .env
+=======
+# Configuración local y credenciales
+.env
+>>>>>>> fc8263953e7d23fdf1db226982e2026247285ae0
