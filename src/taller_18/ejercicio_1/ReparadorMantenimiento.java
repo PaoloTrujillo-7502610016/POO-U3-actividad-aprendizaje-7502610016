@@ -5,4 +5,5 @@ public class ReparadorMantenimiento implements Reparador {
     public void reparar() {
         System.out.println("Se ha repadado el dispositivo");
     }
+
 }

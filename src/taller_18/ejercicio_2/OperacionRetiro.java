@@ -5,4 +5,5 @@ public class OperacionRetiro implements Retiro{
     public void retirarDinero(double valor) {
         System.out.println("Se ha retirado el valor de $:"+valor);
     }
+
 }
