@@ -4,6 +4,7 @@ public class ReporteExcel implements GeneradorReporte{
 
     @Override
     public void generarReporte(String nombreReporte, String departamento) {
+
         System.out.println("El reporte "+nombreReporte+" del departamento de "+departamento+" se ha exportado a Excel");
     }
 
